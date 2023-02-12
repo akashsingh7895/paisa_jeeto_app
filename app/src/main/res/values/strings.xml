@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PaisaJeeto : Task Earning 2023</string>
+    <string name="_100_spin_rs_100">100 Spin = Rs.100</string>
+    <string name="_10_spin_rs_10">10 Spin = Rs.10</string>
+
+
+    <string name="supported_email">akash@gmail.com</string>
+    <string name="privacy_policy">https://appct3.blogspot.com/2022/11/raistar-voice-changer.html</string>
+
+    // applovin ads
+    <string name="inter">d98800ded7a81136</string>
+
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "421476557223",
+    "firebase_url": "https://spinwheeel-ffcfd-default-rtdb.firebaseio.com",
+    "project_id": "spinwheeel-ffcfd",
+    "storage_bucket": "spinwheeel-ffcfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421476557223:android:18aa9ff367ed5ace4a1682",
+        "android_client_info": {
+          "package_name": "com.avssolutiion.newspinwheelappSpinapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421476557223-22mdu372t7r6l5te86otl8181fj7kk1r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.avssolutiion.newspinwheelappSpinapp",
+            "certificate_hash": "f0a91ce31c00a659336b73a924f1e60262e5df38"
+          }
+        },
+        {
+          "client_id": "421476557223-8ac90vc216adr4k90415a6pscd62d3of.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGjghm_Rj89TAmxzPGcgK-n6-CDC8D43Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421476557223-8ac90vc216adr4k90415a6pscd62d3of.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
